@@ -1,2 +1,2 @@
 # testing-pipeline
-test01
+this matlab live script will deal with records from noraxon MR4 software. Goal is to extract Markerless Joint-Angle values and IMU data from those records, compare them to each other. We create 4 Folder for each Situation that is interesting for us. Those Situations are different Curve filter for our Signals, named like this => MP: 'light' , 'moderate', 'off' / IMU: 'mm' (mm= myomotion).
