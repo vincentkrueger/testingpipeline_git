@@ -23,7 +23,7 @@ helpsearch*/
 
 # Code generation folders
 slprj/
-sccprj/
+sccprj/i
 codegen/
 
 # Cache files
